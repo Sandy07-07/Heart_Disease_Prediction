@@ -1,7 +1,7 @@
 This GitHub repository provides a comprehensive analysis and predictive model for heart disease based on a dataset containing 13 columns with values related to various aspects of heart health. 
 The goal of this project is to leverage machine learning techniques to develop an accurate and reliable model for predicting the likelihood of heart disease.
 
-The dataset used in this project comprises 13 columns, each representing different attributes related to heart health. 
+The dataset used in this project comprises 14 columns, each representing different attributes related to heart health. 
 These attributes include factors such as age, sex, cholesterol levels, blood pressure, and more. 
 The dataset has been carefully curated to ensure its quality and relevance to the task of heart disease prediction.
 
